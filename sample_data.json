@@ -1,0 +1,5 @@
+[
+  {"Location": "Site1", "Latitude": 28.7041, "Longitude": 77.1025, "Lead": 0.05, "Cadmium": 0.01, "Arsenic": 0.02},
+  {"Location": "Site2", "Latitude": 28.5355, "Longitude": 77.3910, "Lead": 0.07, "Cadmium": 0.03, "Arsenic": 0.05},
+  {"Location": "Site3", "Latitude": 28.4089, "Longitude": 77.3178, "Lead": 0.02, "Cadmium": 0.005, "Arsenic": 0.015}
+]

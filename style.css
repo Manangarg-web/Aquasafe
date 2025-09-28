@@ -1,0 +1,60 @@
+body, html{
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+}
+.light-mode{
+    background: #f9f9f9;
+    color: #222;
+}
+.dark-mode{
+    background: #121212;
+    color: #f0f0f0;
+}
+.navbar, .card{
+    border-radius: 12px;
+}
+.hero-section{
+    padding: 80px 0;
+    background: linear-gradient(135deg,#0288d1,#26c6da);
+    color:white;
+}
+.hero-title{
+    font-size:3rem;
+    font-weight:700;
+}
+.hero-tagline{
+    font-size:1.2rem;
+    margin-bottom:20px;
+}
+.benefits-list li{
+    margin-bottom:8px;
+}
+.hero-buttons .btn{
+    border-radius: 30px;
+    padding:10px 25px;
+    font-weight:600;
+}
+.upload-section input[type="file"]{
+    display:block;
+    margin:15px auto;
+}
+.format-instructions{
+    font-size:0.9rem;
+}
+.table-responsive{
+    max-height:400px;
+    overflow:auto;
+}
+.badge-safe{background:#0288d1;}
+.badge-moderate{background:#f9a825;}
+.badge-unsafe{background:#d32f2f;}
+
+canvas {
+    max-height: 300px;   /* Controls chart height */
+    width: 100% !important;  /* Makes it responsive */
+    height: auto !important;
+}
+#hmpiChart, #metalChart, #categoryChart, #heatmapChart, #gaugeChart {
+    max-height: 300px;
+}
+

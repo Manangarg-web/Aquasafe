@@ -1,0 +1,37 @@
+[
+  {
+    "Location": "Site1",
+    "Latitude": 20.3,
+    "Longitude": 78.2,
+    "Lead": 0.008,
+    "Cadmium": 0.002,
+    "Arsenic": 0.005
+  },
+  {
+    "Location": "Site2",
+    "Latitude": 21.1,
+    "Longitude": 77.9,
+    "Lead": 0.012,
+    "Cadmium": 0.004,
+    "Arsenic": 0.008
+  },
+  {
+    "Location": "Site3",
+    "Latitude": 19.9,
+    "Longitude": 78.5,
+    "Lead": 0.02,
+    "Cadmium": 0.006,
+    "Arsenic": 0.01
+  },
+  {
+    "Location": "Site4",
+    "Latitude": 20.5,
+    "Longitude": 77.8,
+    "Lead": 0.005,
+    "Cadmium": 0.001,
+    "Arsenic": 0.002
+  },
+  {
+    "Location": "Site1", "Latitude": 28.7041, "Longitude": 77.1025, "Lead": 0.05, "Cadmium": 0.01, "Arsenic": 0.02
+  }
+]
