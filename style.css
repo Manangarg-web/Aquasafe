@@ -10,12 +10,10 @@ body, html{
     background: #121212;
     color: #f0f0f0;
 }
-.navbar, .card{
-    border-radius: 12px;
-}
+
 .hero-section{
     padding: 80px 0;
-    background: linear-gradient(135deg,#0288d1,#26c6da);
+    background: linear-gradient(135deg,#A7C7E7);
     color:white;
 }
 .hero-title{
@@ -50,11 +48,12 @@ body, html{
 .badge-unsafe{background:#d32f2f;}
 
 canvas {
-    max-height: 300px;   /* Controls chart height */
-    width: 100% !important;  /* Makes it responsive */
+    max-height: 300px;
+    width: 100% !important;
     height: auto !important;
 }
-#hmpiChart, #metalChart, #categoryChart, #heatmapChart, #gaugeChart {
+#hmpiChart, #hmpiLineChart, #metalChart, #categoryChart, #heatmapChart, #gaugeChart {
     max-height: 300px;
 }
+
 
